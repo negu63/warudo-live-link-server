@@ -1,6 +1,8 @@
 # Warudo Live Link Server
 
-Warudo와 유튜브 라이브 채팅을 실시간으로 연결하여 시청자 참여형 콘텐츠(투표 등)를 구현할 수 있게 도와주는 링크 서버 애플리케이션입니다.
+Warudo와 유튜브 라이브 채팅을 실시간으로 연결하여 시청자 참여형 콘텐츠(투표 등)를 구현할 수 있게 도와주는 서버 애플리케이션입니다.
+
+<img width="250" height="484.5" alt="Warudo_Youtube_LiveLInk_Server2" src="https://github.com/user-attachments/assets/229266fc-2208-497c-b0e5-39b9b0276e08" />
 
 ## 🚀 주요 기능
 
@@ -71,4 +73,3 @@ python run.py
 - `src/`: 핵심 소스 코드 (UI, Network, Core 로직)
 - `assets/`: 스타일시트 및 리소스 파일
 - `run.py`: 애플리케이션 진입점(Entry point)
-- `tests/`: 테스트 스크립트 (개발 예정)
