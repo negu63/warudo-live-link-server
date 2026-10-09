@@ -16,7 +16,7 @@ Warudo와 유튜브 라이브 채팅을 실시간으로 연결하여 시청자 �
 
 ### 필수 요구 사항
 - **Python 3.10 이상**이 설치되어 있어야 합니다.
-- **와루도 플러그인**: 와루도와 연동하려면 [warudo-live-link-mod]([https://github.com/negu63/WarudoModding](https://github.com/negu63/warudo-live-link-mod)) 플러그인이 와루도에 설치되어 있어야 합니다.
+- **와루도 플러그인**: 와루도와 연동하려면 [warudo-live-link-mod](https://github.com/negu63/warudo-live-link-mod) 플러그인이 와루도에 설치되어 있어야 합니다.
 
 ### 의존성 설치
 본 프로젝트의 필수 라이브러리를 설치합니다.
